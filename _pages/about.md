@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold three degrees in management and marketing applied to healthcare. I earned my **Ph.D. in Marketing (Healthcare Systems)** from Transilvania University of Brașov, Romania (2023), with a thesis on the marketing of healthcare systems in Russia and Romania. I am currently researching innovative business process management enabled by digital technologies in healthcare (see articles below). I also hold an **M.Sc. in Management** from Southwest State University (2019) and **B.Sc. in Health Management from Kursk State Medical University (2017).
+I hold three degrees in management and marketing applied to healthcare. I earned my **Ph.D. in Marketing (Healthcare Systems)** from Transilvania University of Brașov, Romania (2023), with a thesis on the marketing of healthcare systems in Russia and Romania. I am currently researching innovative business process management enabled by digital technologies in healthcare (see articles below). I also hold an **M.Sc. in Management** from Southwest State University (2019) and **B.Sc. in Health Management** from Kursk State Medical University (2017).
 
 I am a health systems researcher specializing in the intersection of patient experience, business process management, and digital transformation in healthcare. My work focuses on improving health system efficiency and equity, primarily within the contexts of Eastern Europe and developing economies.
 
