@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Vladimir Bulatnikov"
@@ -30,7 +30,7 @@ author:
   location         : "1.Russia 2.Romania 3.Hungary"
   employer         : "Transilvania University Brasov"
   uri              : # URL
-  email            : "vovabulatnikov@outlook.com" 
+  email            : "vovabulatnikov95@gmail.com" 
 
   # Academic websites
   academia         : # URL
