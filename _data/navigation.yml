@@ -9,19 +9,19 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/CV.pdf
 
   - title: "Publications"
-    url: /publications/
+    url: /files/Publications.pdf
 
   - title: "Conferences"
-    url: /talks/    
+    url: /files/Conferences.pdf  
 
   - title: "Awards"
-    url: /teaching/    
+    url: /files/Awards.pdf   
 
   - title: "Certifications"
-    url: /portfolio/
+    url: /files/Certifications.pdf
 
   # - title: "CV"
   #   url: /cv-json/
