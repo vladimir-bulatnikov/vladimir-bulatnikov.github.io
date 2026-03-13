@@ -20,8 +20,8 @@ Simultaneously, I am pursuing a Candidate of Economic Sciences degree (Cand. Eco
 
 My core research interests include health system efficiency and financial modeling, patient experience and centeredness, digital transformation in healthcare, and health equity. My work has been published in Q1 and Q2 journals such as *MDPI Sustainability* and *MDPI Healthcare*, and I regularly present my findings at international conferences. I am committed to producing research that not only advances academic understanding but also provides actionable insights for policymakers and healthcare administrators.
 
-I am always open to discussing new research collaborations and opportunities.
-
 Please feel free to explore my site's tabs (at the top) for a full list of my publications, conferences and certifications.
+
+I am always open to discussing new research collaborations and opportunities.
 
 ## Thank you!
