@@ -9,19 +9,22 @@
 
 main:
   - title: "CV"
-    url: /files/CV.pdf
+    url: https://drive.google.com/file/d/1RMVjwdCCa-10e5CyexlKTy0XY9xKPoP_/view?usp=sharing
 
-  - title: "Publications"
-    url: /files/Publications.pdf
+  - title: "Publications (English)"
+    url: https://scholar.google.com/citations?user=59f9pYEAAAAJ
+
+  - title: "Publications (Russian)"
+    url: https://scholar.google.com/citations?user=59f9pYEAAAAJ
 
   - title: "Conferences"
-    url: /files/Conferences.pdf  
+    url: https://drive.google.com/file/d/1RMVjwdCCa-10e5CyexlKTy0XY9xKPoP_/view?usp=sharing
 
   - title: "Awards"
-    url: /files/Awards.pdf   
+    url: https://drive.google.com/file/d/1RMVjwdCCa-10e5CyexlKTy0XY9xKPoP_/view?usp=sharing
 
   - title: "Certifications"
-    url: /files/Certifications.pdf
+    url: https://drive.google.com/file/d/1RMVjwdCCa-10e5CyexlKTy0XY9xKPoP_/view?usp=sharing
 
   # - title: "CV"
   #   url: /cv-json/
