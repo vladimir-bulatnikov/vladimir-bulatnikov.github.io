@@ -21,7 +21,10 @@ My core research interests include health system efficiency and financial modeli
 
 Please feel free to explore my site's tabs (at the top) for a full list of my publications, diplomas and awards.
 
-I am always open to discussing new research collaborations and opportunities.
-##
+##I am always open to discussing new research collaborations and opportunities!##
+
+
+
+
 
 *Updated: 02 June 2026*
