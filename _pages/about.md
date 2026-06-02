@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Vladimir Bulatnikov"
+title: "Vladimir Bulatnikov, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from:
