@@ -24,13 +24,13 @@ repository               : "vladimir-bulatnikov/vladimir-bulatnikov.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Vladimir Bulatnikov"
+  name             : "Vladimir Bulatnikov"
   pronouns         : # - (he/him)
   bio              : "Ph.D. in Marketing (Health)"
-  location         : "1.Russia 2.Romania 3.Hungary"
+  location         : "Russia, Romania, Hungary"
   employer         : "Transilvania University Brasov"
   uri              : # URL
-  email            : "vovabulatnikov95@gmail.com" 
+  email            : "vladimir.bulatnikov@unitbv.ro" 
 
   # Academic websites
   academia         : # URL
