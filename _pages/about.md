@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Portfolio"
+title: "Dr. Vladimir Bulatnikov"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -22,6 +22,7 @@ My core research interests include health system efficiency and financial modeli
 Please feel free to explore my site's tabs (at the top) for a full list of my publications, diplomas and awards.
 
 I am always open to discussing new research collaborations and opportunities.
+
 
 
 
