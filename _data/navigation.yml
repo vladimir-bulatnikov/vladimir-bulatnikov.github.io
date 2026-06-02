@@ -17,14 +17,14 @@ main:
   - title: "Curriculum Vitae"
     url: https://drive.google.com/file/d/1RMVjwdCCa-10e5CyexlKTy0XY9xKPoP_/preview
 
-  - title: "Ph.D. Thesis"
-    url: https://drive.google.com/file/d/1ZGJ7IhYQ2-Ezfio-J2Fn5QJcsSo9gFaQ/preview
-
   - title: "Publications (in English)"
     url: https://scholar.google.com/citations?user=59f9pYEAAAAJ
 
   - title: "Publications (in Russian)"
     url: https://elibrary.ru/author_items.asp?authorid=1305005
+
+  - title: "Ph.D. Thesis"
+    url: https://drive.google.com/file/d/1ZGJ7IhYQ2-Ezfio-J2Fn5QJcsSo9gFaQ/preview
 
   # - title: "CV"
   #   url: /cv-json/
