@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+	
 I am a health systems researcher specializing in the intersection of patient experience, health payment modelling, business process management, and digital transformation in healthcare. My work focuses on improving health system efficiency and equity, primarily within the contexts of Eastern Europe and developing economies.
 
-I hold three degrees in management and marketing applied to healthcare. I earned my **Ph.D. in Marketing (Healthcare Systems)** from Transilvania University of Brașov, Romania (2023), with a thesis on the marketing of healthcare systems in Russia and Romania. I am currently researching innovative business process management enabled by digital technologies in healthcare. I also hold an **M.Sc. in Management** from Southwest State University (2019) and **B.Sc. in Health Management** from Kursk State Medical University (2017).
+I hold three degrees in management and marketing applied to healthcare. I earned **Ph.D. in Marketing (Healthcare Systems)** from Transilvania University of Brașov, Romania (2023), with a thesis on the marketing of healthcare systems in Russia and Romania. I am currently researching innovative business process management enabled by digital technologies in healthcare. I also hold an **M.Sc. in Management** from Southwest State University (2019) and **B.Sc. in Health Management** from Kursk State Medical University (2017).
 
 My research employs a mixed-methods approach, combining large-scale quantitative patient surveys with in-depth qualitative insights from clinical experts. I am particularly interested in how patient-centered strategies and digital innovations can be harnessed to overcome structural inefficiencies, mitigate personnel deficits, and address access disparities in state-dominated healthcare infrastructures.
 
@@ -23,11 +23,6 @@ My core research interests include health system efficiency and financial modeli
 Please feel free to explore my site's tabs (at the top) for a full list of my publications, diplomas and awards.
 
 I am always open to discussing new research collaborations and opportunities.
-
-## Thank you!
-
-
-
 
 
 
