@@ -14,7 +14,7 @@ main:
   - title: "Diplomas"
     url: https://drive.google.com/file/d/1dG6eC4HaCh_xQBiFHPCcAoZQxSkWaDxd/preview
 
-  - title: "Thesis"
+  - title: "Doctoral Thesis"
     url: https://drive.google.com/file/d/1ZGJ7IhYQ2-Ezfio-J2Fn5QJcsSo9gFaQ/preview
 
   - title: "Publications (in English)"
@@ -23,8 +23,11 @@ main:
   - title: "Publications (in Russian)"
     url: https://elibrary.ru/author_items.asp?authorid=1305005
 
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: https://drive.google.com/file/d/1RMVjwdCCa-10e5CyexlKTy0XY9xKPoP_/preview
+
+  - title: "ORCID"
+    url: https://orcid.org/0000-0003-4131-0374
 
   - title: "LinkedIn"
     url: https://linkedin.com/in/vovabulatnikov95
