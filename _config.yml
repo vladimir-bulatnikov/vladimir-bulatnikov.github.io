@@ -24,9 +24,9 @@ repository               : "vladimir-bulatnikov/vladimir-bulatnikov.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Vladimir Bulatnikov"
+  name             : "  Vladimir Bulatnikov"
   pronouns         : # - (he/him)
-  bio              : "Marketing | Management"
+  bio              : "   Marketing | Management"
   location         : "Russia, Romania, Hungary"
   employer         : "Transilvania University Brasov"
   uri              : # URL
