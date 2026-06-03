@@ -19,8 +19,8 @@ In my current capacity at Southwest State University, my research focuses on inn
 
 My core research interests include health system efficiency and financial modeling, patient experience and centeredness, digital transformation in healthcare, and health equity. My work includes one Q1 and two Q2 peer-reviewed journal articles, two Scopus-indexed book chapters, two Scopus-indexed conference proceedings, and multiple other publications and conference presentations. I regularly present my findings at international conferences. My recent work (May 2026) received the Diploma of the 2nd Degree at the V.V. Novozhilov International Competition of Scientific Works in St. Petersburg (Digital Economy and Industry 4.0/5.0) for research on digital maturity in healthcare. I am committed to producing research that advances academic understanding and provides actionable insights for policymakers and healthcare administrators.
 
-I am always open to discussing new research collaborations and opportunities.
-
-<img width="1280" height="960" alt=" " src="https://github.com/user-attachments/assets/ad3dfbbc-08e2-43e2-9205-9211bdec45d2" />
+I am always open to discussing new research collaborations and opportunities!
 
 Please feel free to explore my site's tabs for a full list of my publications, diplomas and awards.
+
+<img width="1280" height="960" alt=" " src="https://github.com/user-attachments/assets/ad3dfbbc-08e2-43e2-9205-9211bdec45d2" />
