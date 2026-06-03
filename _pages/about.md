@@ -23,4 +23,4 @@ Please feel free to explore my site's tabs for a full list of my publications, d
 
 I am always open to discussing new research collaborations and opportunities.
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d814e691-e030-47a9-8b87-9ab6868a83e2" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/ad3dfbbc-08e2-43e2-9205-9211bdec45d2" />
