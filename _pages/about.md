@@ -13,7 +13,7 @@ I hold three degrees in management and marketing applied to healthcare: a **B.Sc
 
 My research employs a mixed-methods approach, combining large-scale quantitative patient surveys with in-depth qualitative insights from clinical experts. I am particularly interested in how patient-centered strategies and digital innovations can be harnessed to overcome structural inefficiencies, mitigate personnel deficits, and address access disparities in state-dominated healthcare infrastructures.
 
-Previously, from September 2024 to July 2025, I was a visiting researcher at the Hungarian University of Agriculture and Life Sciences (MATE) in Hungary, supported by the Stipendium Hungaricum program. My work there involved applying advanced economic modeling and predictive statistics to estimate the burden of Obstructive Sleep Apnea (OSA) and identify cost-saving workflows within hospital datasets.
+Previously, from September 2024 to July 2025, I was a visiting researcher at the Hungarian University of Agriculture and Life Sciences (MATE) in Budapest, supported by the Stipendium Hungaricum program. My work there involved applying advanced economic modeling and predictive statistics to estimate the burden of Obstructive Sleep Apnea (OSA) and identify cost-saving workflows within hospital datasets.
 
 In my current capacity at Southwest State University, my research focuses on innovative business process management in healthcare based on digital technologies. This research stream explores the gap between theoretical digital frameworks and their practical implementation, analyzing topics such as physician attitudes towards digital tools and the phenomenon of “Digital Fatigue” among healthcare workers.
 
