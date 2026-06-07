@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vladimir Bulatnikov, Ph.D."
+title: "Academic Portfolio"
 excerpt: "Academic Portfolio"
 author_profile: true
 redirect_from:
