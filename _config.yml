@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : # "Homepage"
-title_separator          : "Dr. Vladimir Bulatnikov"
+title_separator          : "Vladimir Bulatnikov, Ph.D. - Academic Portfolio"
 name                     : &name "Vladimir Bulatnikov"
 description              : &description "Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://vladimir-bulatnikov.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -24,7 +24,7 @@ repository               : "vladimir-bulatnikov/vladimir-bulatnikov.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Vladimir Bulatnikov"
+  name             : "Vladimir Bulatnikov, Ph.D."
   pronouns         : # - (he/him)
   bio              : "Marketing | Management"
   location         : "Brasov, Romania"
