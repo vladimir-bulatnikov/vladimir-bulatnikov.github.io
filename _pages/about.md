@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## News
-- **(June 3 2026)** SWSU Researcher Vladimir Bulatnikov Recognized Among Top Young Scientists at St. Petersburg Conference:
+- **(June 3 2026)** Bridging Medicine and Digital Tech: SWSU Researcher Vladimir Bulatnikov Recognized Among Top Young Scientists at St. Petersburg Conference
   - [Read in Russian (Original)](https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/)
   - [Read in English (Translated)](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F)
 
