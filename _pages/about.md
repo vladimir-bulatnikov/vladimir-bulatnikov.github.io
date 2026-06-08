@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## News
-- **(June 3 2026)** Bridging Medicine and Digital Tech: SWSU Researcher Vladimir Bulatnikov Recognized Among Top Young Scientists at St. Petersburg Conference
-  - [Read in Russian (Original)](https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/)
-  - [Read in English (Translated)](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F)
+**News**
+- **[June 3 2026]** SWSU Researcher Vladimir Bulatnikov Takes Second Place in International Scientific Paper Competition in St. Petersburg:
+  - <a href="https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/" target="_blank">Read in Russian (Original)</a>
+  - <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F" target="_blank">Read in English (Translated)</a>
 
 <img width="1280" height="904" alt="" src="https://github.com/user-attachments/assets/0875bb1e-b3b0-4b0c-8bbb-fef2689de7d8" />
 
