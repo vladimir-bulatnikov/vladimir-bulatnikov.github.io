@@ -17,7 +17,7 @@ I am a health systems researcher specializing in the intersection of patient exp
 <img width="1280" height="904" alt="" src="https://github.com/user-attachments/assets/0875bb1e-b3b0-4b0c-8bbb-fef2689de7d8" />
 
 ## About
-I hold three degrees in management and marketing applied to healthcare: a B.Sc. in Management (Public Health) from Kursk State Medical University (2017), an M.Sc. in Management from Southwest State University (2019), and a Ph.D. in Marketing from Transilvania University of Brașov, Romania (2023). My doctoral thesis was titled 'Marketing of Healthcare Systems in Russia and Romania: Development Prospects and Suggestions for Improvement'. Currently, I am researching innovative business process management enabled by digital technologies in healthcare.
+I hold three degrees in management and marketing applied to healthcare: a B.Sc. in Management (Public Health) from Kursk State Medical University (2017), an M.Sc. in Management from Southwest State University (2019), and a Ph.D. in Marketing from Transilvania University of Brașov, Romania (2023). My doctoral thesis is titled 'Marketing of Healthcare Systems in Russia and Romania: Development Prospects and Suggestions for Improvement'. Currently, I am researching innovative business process management enabled by digital technologies in healthcare.
 
 My research employs a mixed-methods approach, combining large-scale quantitative patient surveys with in-depth qualitative insights from clinical experts. I am particularly interested in how patient-centered strategies and digital innovations can be harnessed to overcome structural inefficiencies, mitigate personnel deficits, and address access disparities in state-dominated healthcare infrastructures.
 
