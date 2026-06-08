@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## News
-- **[June 3 2026]**
+**[June 3 2026]**
 - SWSU Researcher Vladimir Bulatnikov Takes Second Place in International Scientific Paper Competition in St. Petersburg:
   - <a href="https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/" target="_blank">Read in Russian (Original)</a>
   - <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F" target="_blank">Read in English (Translated)</a>
