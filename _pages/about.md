@@ -24,8 +24,9 @@ I am always open to discussing new research collaborations and opportunities!
 Please feel free to explore my site's tabs for a full list of my publications, diplomas and awards.
 
 ## News
-- Aspirant of SWSU is among the best young scientists (June 3 2026):
+- **(June 3 2026):** Vladimir Bulatnikov of SWSU is among the best young scientists
   - [Read in Russian (Original)](https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/)
   - [Read in English (Translated)](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F)
+
 
 <img width="1280" height="904" alt="" src="https://github.com/user-attachments/assets/0875bb1e-b3b0-4b0c-8bbb-fef2689de7d8" />
