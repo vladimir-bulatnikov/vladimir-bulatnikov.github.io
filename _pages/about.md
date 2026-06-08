@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a health systems researcher specializing in the intersection of patient experience, health payment modelling, business process management, and digital transformation in healthcare. My work focuses on improving health system efficiency and equity, primarily within the contexts of Eastern Europe and developing economies.
+
 ## News
 - **(June 3 2026)** SWSU Researcher Vladimir Bulatnikov Takes Second Place in International Scientific Paper Competition in St. Petersburg:
   - <a href="https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/" target="_blank">Read in Russian (Original)</a>
@@ -15,8 +17,6 @@ redirect_from:
 <img width="1280" height="904" alt="" src="https://github.com/user-attachments/assets/0875bb1e-b3b0-4b0c-8bbb-fef2689de7d8" />
 
 ## About
-I am a health systems researcher specializing in the intersection of patient experience, health payment modelling, business process management, and digital transformation in healthcare. My work focuses on improving health system efficiency and equity, primarily within the contexts of Eastern Europe and developing economies.
-
 I hold three degrees in management and marketing applied to healthcare: a B.Sc. in Management (Public Health) from Kursk State Medical University (2017), an M.Sc. in Management from Southwest State University (2019), and a Ph.D. in Marketing from Transilvania University of Brașov, Romania (2023). My doctoral thesis was titled 'Marketing of Healthcare Systems in Russia and Romania: Development Prospects and Suggestions for Improvement'. Currently, I am researching innovative business process management enabled by digital technologies in healthcare.
 
 My research employs a mixed-methods approach, combining large-scale quantitative patient surveys with in-depth qualitative insights from clinical experts. I am particularly interested in how patient-centered strategies and digital innovations can be harnessed to overcome structural inefficiencies, mitigate personnel deficits, and address access disparities in state-dominated healthcare infrastructures.
