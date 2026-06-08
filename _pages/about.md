@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## News
+- **(June 3 2026):** Vladimir Bulatnikov of SWSU is among the best young scientists
+  - [Read in Russian (Original)](https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/)
+  - [Read in English (Translated)](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F)
+
+<img width="1280" height="904" alt="" src="https://github.com/user-attachments/assets/0875bb1e-b3b0-4b0c-8bbb-fef2689de7d8" />
+
+##
 I am a health systems researcher specializing in the intersection of patient experience, health payment modelling, business process management, and digital transformation in healthcare. My work focuses on improving health system efficiency and equity, primarily within the contexts of Eastern Europe and developing economies.
 
 I hold three degrees in management and marketing applied to healthcare: a B.Sc. in Management (Public Health) from Kursk State Medical University (2017), an M.Sc. in Management from Southwest State University (2019), and a Ph.D. in Marketing from Transilvania University of Brașov, Romania (2023). My doctoral thesis was titled 'Marketing of Healthcare Systems in Russia and Romania: Development Prospects and Suggestions for Improvement'. Currently, I am researching innovative business process management enabled by digital technologies in healthcare.
@@ -22,11 +30,3 @@ My core research interests include health system efficiency and financial modeli
 I am always open to discussing new research collaborations and opportunities!
 
 Please feel free to explore my site's tabs for a full list of my publications, diplomas and awards.
-
-## News
-- **(June 3 2026):** Vladimir Bulatnikov of SWSU is among the best young scientists
-  - [Read in Russian (Original)](https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/)
-  - [Read in English (Translated)](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F)
-
-
-<img width="1280" height="904" alt="" src="https://github.com/user-attachments/assets/0875bb1e-b3b0-4b0c-8bbb-fef2689de7d8" />
