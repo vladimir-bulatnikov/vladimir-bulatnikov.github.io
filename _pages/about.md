@@ -14,7 +14,7 @@ I am a health systems researcher specializing in the intersection of patient exp
   - <a href="https://swsu.ru/news/education/aspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen/" target="_blank">Read in Russian (Original)</a>
   - <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fswsu.ru%2Fnews%2Feducation%2Faspirant_yuzgu_-_v_chisle_luchshikh_molodykh_uchen%2F" target="_blank">Read in English (Translated)</a>
 
-<img width="1280" height="904" alt="" src="https://github.com/user-attachments/assets/0875bb1e-b3b0-4b0c-8bbb-fef2689de7d8" />
+<img width="1909" height="904" alt="" src="https://github.com/user-attachments/assets/a3729cb4-bdb2-45e8-8d12-0c8b5fc40925" />
 
 ## About
 I hold three degrees in management and marketing applied to healthcare: a B.Sc. in Management (Public Health) from Kursk State Medical University (2017), an M.Sc. in Management from Southwest State University (2019), and a Ph.D. in Marketing from Transilvania University of Brașov, Romania (2023). My doctoral thesis is titled 'Marketing of Healthcare Systems in Russia and Romania: Development Prospects and Suggestions for Improvement'. Currently, I am researching innovative business process management enabled by digital technologies in healthcare.
